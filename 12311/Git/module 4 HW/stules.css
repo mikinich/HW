@@ -1,0 +1,17 @@
+h1 {
+background: green
+
+}
+.paragraph-1 {
+font-size:24px;
+text-shadow: green 2px 1px;
+font-style: italic
+text-align: center
+
+}
+.prg2 {
+border: blue solid 10px;
+border-radius: 15px;
+margin: 50px;
+padding: 50px
+}
